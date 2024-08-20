@@ -1,4 +1,4 @@
-永久修改pip源8062b5ff5013c5a1d54bae1b1960144c
+永久修改pip源
 
 ```bash
  pip config set global.index-url https://mirrors.aliyun.com/pypi/simple
