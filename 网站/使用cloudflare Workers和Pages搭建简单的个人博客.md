@@ -5,7 +5,7 @@
 
 首先这两个是啥，官方的话如下：
 
-[Workers]([Cloudflare 员工](https://developers.cloudflare.com/workers/))
+[Workers]([Cloudflare Workers](https://developers.cloudflare.com/workers/))
 
 > Cloudflare Workers 提供了一个[无服务器](https://www.cloudflare.com/learning/serverless/what-is-serverless/)执行环境，允许您创建新应用程序或增强现有应用程序，而无需配置或维护基础设施。
 
