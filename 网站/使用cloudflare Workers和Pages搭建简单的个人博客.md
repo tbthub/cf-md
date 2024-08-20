@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 使用cloudflare Workers和Pages搭建简单的个人博客
 
 ## 写在前面
