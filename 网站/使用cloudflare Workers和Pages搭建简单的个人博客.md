@@ -69,7 +69,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 2. 先创建Workers
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/c66aed16f5694beda6670524e8559cb9.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/c66aed16f5694beda6670524e8559cb9.png)
 
 
 
@@ -77,7 +77,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 3. 如果方便的可以使用下面的模版，我这里就不使用了，后面需要什么再加
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/527b6330a9654a139d21c166aadee84a.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/527b6330a9654a139d21c166aadee84a.png)
 
 
 
@@ -85,7 +85,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 4. 随便命一个名字后点击部署即可
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/fa76abe1ea7646199ac0c262b249076c.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/fa76abe1ea7646199ac0c262b249076c.png)
 
 
 
@@ -93,7 +93,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 5. 之后应该是这个页面,可以点击其他的，不过我们暂时不管，点击“继续处理项目”就行
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/8b7a837c55484d63871764eb0e8ab86a.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/8b7a837c55484d63871764eb0e8ab86a.png)
 
 
 
@@ -101,7 +101,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 6. 现在我们让为其添加数据库
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/1c7a99cbb8ba4672a7d0a92718e84cc6.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/1c7a99cbb8ba4672a7d0a92718e84cc6.png)
 
 
 
@@ -109,7 +109,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 7. 随便输入名字后创建即可，只要与现存的不重名，点击创建
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/fd9ed9817872466aab4cb3920eac7415.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/fd9ed9817872466aab4cb3920eac7415.png)
 
 
 
@@ -117,7 +117,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 8. 成功后应该是这个页面
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/2ee7226b6c1049f08c999d13ec54c84e.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/2ee7226b6c1049f08c999d13ec54c84e.png)
 
 
 
@@ -125,7 +125,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 9. 现在我们去绑定这两个
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/bfe760b1a292409ca99dfa93aed2785a.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/bfe760b1a292409ca99dfa93aed2785a.png)
 
 
 
@@ -133,7 +133,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 10. 如图
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/460feb438db94690bc20fbed7183b0bc.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/460feb438db94690bc20fbed7183b0bc.png)
 
 
 
@@ -141,7 +141,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 11. 变量名称随便，然后选择你刚才的数据库后点击部署
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/f5de18573ab949c192b86841f9024095.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/f5de18573ab949c192b86841f9024095.png)
 
 
 
@@ -149,7 +149,7 @@ Pages的free计划有一些限制，这里不方便列表，请自行查看源�
 
 12. 然后去，右上角编辑代码
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/369c7e50358941b593c63d59d9a43b09.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/369c7e50358941b593c63d59d9a43b09.png)
 
 
 
@@ -192,11 +192,11 @@ id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 这个比较简单，自己选择方式上传网页的文件即可，然后根据提示继续。
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/8f55ae73fd4848788dde68f7ef3705ed.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/8f55ae73fd4848788dde68f7ef3705ed.png)
 
 到了这里就行了
 
-![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/main/images/2024-08/5085bcf1abf14fd28255ed91fff73173.png)
+![img](https://gh.ttb.wiki/https://raw.githubusercontent.com/tbthub/cf-md/images/2024-08/5085bcf1abf14fd28255ed91fff73173.png)
 
 
 
