@@ -1,1 +1,1 @@
-Gitbook托管：https://md.ttb.wiki
+Gitbook托管：https://mds.ttb.wiki
