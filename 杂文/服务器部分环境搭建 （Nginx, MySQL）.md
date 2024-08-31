@@ -326,9 +326,7 @@ flush privileges;
 >[在Ubuntu上安装和配置MySQL保姆级教程](https://www.51cto.com/article/718700.html)
 >
 >[在Ubuntu 22.04 LTS 上安装 MySQL两种方式：在线方式和离线方式](https://blog.csdn.net/weixin_45626288/article/details/133220238)
->
->图像来源 :
->
->[^1]: 图像来源: [w3schools](https://www.w3schools.cn)
->
->[^2]: 图片来源于：[MySQL Logo](https://www.mysql.com/about/legal/logos.html)
+
+[^1]: 图像来源: [w3schools](https://www.w3schools.cn)
+
+[^2]: 图片来源于：[MySQL Logo](https://www.mysql.com/about/legal/logos.html)
