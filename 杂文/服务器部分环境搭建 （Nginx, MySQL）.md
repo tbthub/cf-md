@@ -320,17 +320,15 @@ flush privileges;
 
 >参考：
 >
-> [如何在 Ubuntu 22.04 上安装、配置、使用 Nginx？-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/article/1443902)
+>[如何在 Ubuntu 22.04 上安装、配置、使用 Nginx？-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/article/1443902)
 >
-> [在 Ubuntu 22.04 上安装和配置 Nginx 的完整指南](https://blog.csdn.net/u011715638/article/details/138670319)
-> [在Ubuntu上安装和配置MySQL保姆级教程](https://www.51cto.com/article/718700.html)
-> 
-> [在Ubuntu 22.04 LTS 上安装 MySQL两种方式：在线方式和离线方式](https://blog.csdn.net/weixin_45626288/article/details/133220238)
-
-
-
----
-
-[^1]: 图像来源: [w3schools](https://www.w3schools.cn)
-
-[^2]:图片来源于：[MySQL Logo](https://www.mysql.com/about/legal/logos.html)
+>[在 Ubuntu 22.04 上安装和配置 Nginx 的完整指南](https://blog.csdn.net/u011715638/article/details/138670319)
+>[在Ubuntu上安装和配置MySQL保姆级教程](https://www.51cto.com/article/718700.html)
+>
+>[在Ubuntu 22.04 LTS 上安装 MySQL两种方式：在线方式和离线方式](https://blog.csdn.net/weixin_45626288/article/details/133220238)
+>
+>图像来源 :
+>
+>[^1]: 图像来源: [w3schools](https://www.w3schools.cn)
+>
+>[^2]: 图片来源于：[MySQL Logo](https://www.mysql.com/about/legal/logos.html)
